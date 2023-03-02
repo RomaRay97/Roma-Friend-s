@@ -1,6 +1,4 @@
-Jura
-Basket
-Egor
-Vladik
-Dimas
-Jaga
+Nikita
+Anna 
+Dima
+Maks
