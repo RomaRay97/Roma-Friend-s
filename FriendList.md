@@ -1,4 +1,14 @@
+MyFriends
 Nikita
 Anna 
 Dima
 Maks
+Jura
+Basket
+Egor
+Vladik
+Dimas
+Jaga
+Vadim
+Regina
+Vera
