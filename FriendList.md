@@ -1,1 +1,6 @@
-Roma Friends: 
+Jura
+Basket
+Egor
+Vladik
+Dimas
+Jaga
